@@ -25,3 +25,15 @@ label {
   display: block;
   text-align: center;
 }
+
+@media screen and (min-width: 768px) {
+  label {
+    display: inline;
+  }
+
+  input {
+    width: 50%;
+    display: inline-block;
+  }
+
+}
