@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(213, 224, 235);
+  line-height: 2.0em;
+  font-size: 1.1em;
+  font-family: 'Nunito', sans-serif;
+  color: rgb(88, 89, 92);
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  font-size: 1.4em;
+}
+
+form {
+  display: block;
+  text-align: center;
+}
+
+input {
+  width: 50%;
+}
+
+label {
+  display: block;
+  text-align: center;
+}
